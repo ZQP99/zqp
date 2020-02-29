@@ -1,0 +1,2 @@
+# zqp
+learning softwares
